@@ -11,7 +11,7 @@ presskit_download_link                    : https://                            
 
 app_icon                                  : /assets/apple-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WebAR Computer                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free Web App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Web Augmented Reality Hardware Computer.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -20,13 +20,13 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : TRF                                
-your_link                                 : https://                     
+your_link                                 : https://trf-folio.netlify.app                    
 your_city                                 : Seol - South Korea                                
 email_address                             : afimasyita@gmail.com
 facebook_username                         :                                           
 instagram_username                        : rizky_novaa
 twitter_username                          : FTaufich
-github_username                           : afimasyita
+github_username                           : 
 youtube_username                          :
 
 
