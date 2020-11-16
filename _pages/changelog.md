@@ -8,7 +8,7 @@ include_in_header: true
 
 > Now, many people got a phone powerful enough to do web AR in their pocket. I think this performance improvement makes web AR a reality. i am all exited by what people are gonna with it :)
 
-## Cukup mainkan game puzzle AR ini dengan menggunakan browser berikut 🤭
+## Cukup jalankan Aplikasi Web AR Hardware Computer ini dengan menggunakan browser berikut 🤭
 
  - Browser di PC dengan bantuan Webcam atau Laptop
 
@@ -18,7 +18,7 @@ include_in_header: true
 
  - Microsoft Edge di Smartphone Windows 10
 
-## Cara Memainkan Game Puzzle AR Berbasis Web 🎮
+## Cara Menjalankan Aplikasi Web AR Hardware Computer 🎮
 
 1. Download marker terlebih dahulu di link berikut [Google Drive](https://), atau kembali ke halaman awal [Homepage](https://)
 
