@@ -36,10 +36,10 @@ include_in_header: true
 
 ### Menambahkan Home Screen Device iOS 📌
 
-![homescren](/assets/homescren.jpg =200x250)
+![](./assets/homescren.jpg)
 
 ### Menambahkan Home Screen Device Android 📌
 
-![android](/assets/android.png =200x250)
+![](./assets/android.png)
 
 
