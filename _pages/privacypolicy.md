@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flash Card
+title: About
 include_in_header: true
 ---
 
