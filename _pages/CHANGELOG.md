@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flash Card
-include_in_header: true
+include_in_header: false
 ---
 
 ### <i class="fa fa-graduation-cap" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Flash Card Pengenalan AR Hardware Komputer
