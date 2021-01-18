@@ -4,7 +4,7 @@ page_title                                : WebAR Hardware Computer             
 # App Info
 ios_app_id                                : 08081992                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://afimasyita.github.io/hardware-comp/                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://afimasyita.github.io/ar_app/                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : https://www.dropbox.com/sh/qiwcl3ox2bwds30/AADTkYyCZXMwhc9gm0sgxuVda?dl=0                                     # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
